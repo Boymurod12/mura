@@ -1,0 +1,26 @@
+nav{
+    width: 100%;
+   padding: 20px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.nav__input input{
+     height: 41px!important;
+    width: 550px!important;
+    
+}
+.nav__input button{
+    height: 41px!important;
+}
+.nav__shopcart{
+    width: 100px;
+
+    display: flex;
+     justify-content: space-between;
+}
+.nav_div{
+    height: 50px;
+    background: rgb(6,21,97);
+background: linear-gradient(90deg, rgba(6,21,97,1) 0%, rgba(0,93,255,0.9710477941176471) 100%, rgba(11,26,147,0.9654455532212886) 100%);
+}
